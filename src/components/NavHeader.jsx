@@ -15,7 +15,7 @@ function NavHeader() {
           >
             <i className="fa-solid fa-bars-staggered bar d-sm-none d-flex"></i>
           </button>
-          <img src="./img/logo.png" alt="" />
+          <img src="/img/logo.png" alt="" />
           <h3>AIR</h3>
         </div>
         <ul className="navbar-nav flex-row gap-3 d-lg-flex d-none">
